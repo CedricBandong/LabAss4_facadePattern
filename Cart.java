@@ -5,5 +5,6 @@ public class Cart implements HotelService{
       }
       else {
         System.out.println(numberOfCarts + " carts has been requested.");
+      }
     }
 }
